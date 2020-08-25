@@ -5,11 +5,11 @@
     <title>Book&I </title>
     <link rel="stylesheet" href="style.css">
   </head>
-  <body class="highlight">
-    <h1 class="text-center">Book&I</h1>
-	<img src="img 1.png">
-	<p>Привет!</p>
-	<p>Я Иоанн Дёмин, начинающий писатель, автор книги <a href="https://www.litres.ru/ioann-sergeevich-demin/detskie-skorbi/">"Детские скорби"</a></p>
+  <body class="text-center highlight">
+    <h1 class="text-center highlight">Book&I </h1>
+	<img class="text-center" src="img 1.png">
+	<p class="text-center">Привет!</p>
+	<p class="text-center">Я Иоанн Дёмин, начинающий писатель, автор книги <a href="https://www.litres.ru/ioann-sergeevich-demin/detskie-skorbi/">"Детские скорби"</a>.</p>
   </body>
   <!-- Start of Omnidesk Widget script {literal}-->
 <script>

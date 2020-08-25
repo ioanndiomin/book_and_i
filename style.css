@@ -1,0 +1,31 @@
+body {
+  width: 1000px;
+  margin: 0;
+  padding: 0 500px;
+  font-size: 16px;
+  line-height: 20px;
+  
+  font-family: "Campton Book", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: normal;
+  text-align: center;
+}
+.highlight {
+ background-color: #0c0f66; 
+ color: #ffffff;
+ padding: 0 500px;
+ font-weight: italic;
+}
+img {
+	padding: 0 430px;
+}
+p {
+text-align: center;	
+font-family: "Campton Book", sans-serif;
+}
+a {
+	color: #ff0000; 
+}

@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body class="text-center highlight">
-    <h1 class="text-center highlight"><img class="text-center" src="img 1.png">Book&I </h1>
-	
+    <h1 class="text-center highlight">Book&I </h1>
+	<img class="text-center" src="img 1.png">
 	<p class="text-center">Привет!</p>
 	<p class="text-center">Я Иоанн Дёмин, начинающий писатель, автор книги <a href="https://www.litres.ru/ioann-sergeevich-demin/detskie-skorbi/">"Детские скорби"</a>.</p>
   </body>

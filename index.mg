@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
+  <link rel="shortcut icon" href="favicon.ico">
     <meta charset="utf-8">
     <title>Book&I </title>
     <link rel="stylesheet" href="style.css">
